@@ -1,5 +1,5 @@
 package Assignment;
 
-public interface Interface {
+public interface NextEven {
     public long even(long a);
 }
